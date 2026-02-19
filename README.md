@@ -109,3 +109,14 @@ This project demonstrates how to build a production-style RAG pipeline using:
 
 It serves as a portfolio-level implementation of modern AI system design.
 
+---
+
+## 👨‍💻 Author
+
+Gourav K  
+BCA Student | Backend & AI Enthusiast  
+Focused on mastering Computer Vision & AI systems.
+
+---
+
+⭐ If you found this project useful, consider starring the repository!
